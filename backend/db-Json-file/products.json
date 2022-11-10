@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "636a8b18cb3c80ba31a7db33"
+  },
+  "name": "Brazil Football Jersey, NEYMAR JR 10 Jersey",
+  "sku": "JM124",
+  "images": [
+    "https://static-01.daraz.com.bd/p/44391106104d446dd4fd213965b0a2c1.jpg",
+    "https://static-01.daraz.com.bd/p/50b7b0fa1539cd8622056b4710eb3ff8.jpg",
+    "https://static-01.daraz.com.bd/p/dfaf36db04e95c0ad9b06bd304151cdd.jpg"
+  ],
+  "description": "Product details of Short Sleeve Men/Women T-shirt",
+  "category": "Shoes & Clothing",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "colors": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "brand": "No Brand",
+  "productVariant": "multiple variant",
+  "reviews": [],
+  "rating": 4.5,
+  "numReviews": 0,
+  "price": 149,
+  "countInStock": 0,
+  "numberOfReviews": 0,
+  "seller": "eBay",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667926808096"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8ba0cb3c80ba31a7db35"
+  },
+  "name": "Brazil Football Jersey, NEYMAR JR 10 Jersey",
+  "sku": "JM125",
+  "images": [
+    "https://static-01.daraz.com.bd/p/44391106104d446dd4fd213965b0a2c1.jpg",
+    "https://static-01.daraz.com.bd/p/50b7b0fa1539cd8622056b4710eb3ff8.jpg",
+    "https://static-01.daraz.com.bd/p/dfaf36db04e95c0ad9b06bd304151cdd.jpg"
+  ],
+  "description": "Jaspeer Wholesale Retro Band Polarized Sunglasses for Men",
+  "category": "Shoes & Clothing",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "colors": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "brand": "No Brand",
+  "productVariant": "multiple variant",
+  "reviews": [],
+  "rating": 4.5,
+  "numReviews": 0,
+  "price": 210,
+  "countInStock": 50,
+  "numberOfReviews": 0,
+  "seller": "eBay",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667926944377"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636b33b462df8146b4f037dd"
+  },
+  "name": "gGlass demo",
+  "sku": "JM126",
+  "images": [
+    "https://static-01.daraz.com.bd/p/mdc/b18b429b5d112eee6985031593369b0a.jpg",
+    "https://static-01.daraz.com.bd/p/691a6ec80596282a12a70ad61b419573.jpg",
+    "https://static-01.daraz.com.bd/p/mdc/b18b429b5d112eee6985031593369b0a.jpg"
+  ],
+  "description": "Jaspeer Wholesale Retro Band Polarized Sunglasses for Men",
+  "category": "Watches Sunglasses Jewellery",
+  "sizes": [],
+  "colors": [
+    "Black",
+    "Blue"
+  ],
+  "productVariant": "no variant",
+  "brand": "No Brand",
+  "reviews": [],
+  "rating": 4.5,
+  "numReviews": 0,
+  "price": 210,
+  "countInStock": 30,
+  "numberOfReviews": 0,
+  "seller": "eBay",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667969972536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636b39a60dc6314c6488c063"
+  },
+  "name": "Jaspeer Wholesale Retro Band Polarized Sunglasses for Men",
+  "sku": "JM128",
+  "images": [
+    "https://static-01.daraz.com.bd/p/mdc/b18b429b5d112eee6985031593369b0a.jpg",
+    "https://static-01.daraz.com.bd/p/691a6ec80596282a12a70ad61b419573.jpg",
+    "https://static-01.daraz.com.bd/p/mdc/b18b429b5d112eee6985031593369b0a.jpg"
+  ],
+  "description": "Jaspeer Wholesale Retro Band Polarized Sunglasses for Men",
+  "category": "Watches Sunglasses Jewellery",
+  "sizes": [],
+  "colors": [
+    "Black",
+    "Blue"
+  ],
+  "brand": "No Brand",
+  "productVariant": "no variant",
+  "reviews": [],
+  "rating": 4.5,
+  "numReviews": 0,
+  "price": 210,
+  "countInStock": 30,
+  "numberOfReviews": 0,
+  "seller": "eBay",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667971494536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636bac690ad5bb634f324304"
+  },
+  "name": "Jaspeer Wholesale Retro Band Polarized Sunglasses for Men",
+  "sku": "JM129",
+  "images": [
+    "https://static-01.daraz.com.bd/p/mdc/b18b429b5d112eee6985031593369b0a.jpg",
+    "https://static-01.daraz.com.bd/p/691a6ec80596282a12a70ad61b419573.jpg",
+    "https://static-01.daraz.com.bd/p/mdc/b18b429b5d112eee6985031593369b0a.jpg"
+  ],
+  "description": "Jaspeer Wholesale Retro Band Polarized Sunglasses for Men",
+  "category": "Watches Sunglasses Jewellery",
+  "productVariant": "no variant",
+  "sizes": [],
+  "colors": [
+    "Black",
+    "Blue"
+  ],
+  "brand": "No Brand",
+  "reviews": [],
+  "rating": 4.5,
+  "numReviews": 0,
+  "price": 210,
+  "countInStock": 30,
+  "numberOfReviews": 0,
+  "seller": "eBay",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668000873236"
+    }
+  },
+  "__v": 0
+}]

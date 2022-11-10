@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "7481f4bc-907f-4752-81b4-efa058df7d50",
 		"name": "ecommers.momagic",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
 		"_exporter_id": "12215821"
 	},
 	"item": [
@@ -23,17 +23,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "{{host}}/api/v1/products",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"api",
-								"v1",
-								"products"
-							]
-						}
+						"url": "{{host}}/api/v1/products"
 					},
 					"response": []
 				},
@@ -80,17 +70,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "{{host}}/api/v1/products",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"api",
-								"v1",
-								"products"
-							]
-						}
+						"url": "{{host}}/api/v1/products"
 					},
 					"response": []
 				}
@@ -146,17 +126,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "{{host}}/api/v1/orders",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"api",
-								"v1",
-								"orders"
-							]
-						}
+						"url": "{{host}}/api/v1/orders"
 					},
 					"response": []
 				},
@@ -177,17 +147,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "{{host}}/api/v1/orders",
-							"host": [
-								"{{host}}"
-							],
-							"path": [
-								"api",
-								"v1",
-								"orders"
-							]
-						}
+						"url": "{{host}}/api/v1/orders"
 					},
 					"response": []
 				}
