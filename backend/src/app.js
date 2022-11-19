@@ -24,8 +24,5 @@ configureRoutes(app);
 //error requrest handle uesd to app...
 app.use(handleError);
 
-const swaggerDocument = require('./swagger.json');
-app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerDocument));
-
 
 module.exports = app;
